@@ -2,9 +2,7 @@
 
 const configHam = (ham) => {
 
-  const about = ham.about
-  const seasons = ham.seasons
-  const results = ham.results
+  const { about, seasons, results } = ham
 
   const overall = {
     championships: seasons.filter(season => season.position == 1),

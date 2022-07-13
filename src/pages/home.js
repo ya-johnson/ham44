@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react'
+import { useEffect } from 'react'
 import useStore from '../store'
 import axios from 'axios'
 import configHam from '../utils/configHam'
