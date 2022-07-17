@@ -12,7 +12,7 @@
 ### Installation
 
 ```
-$ git clone 'https://github.com/ya-johnson/ham44'
+$ git clone 'https://github.com/ya-johnson/ham44.git'
 $ npm install
 $ npm start
 ```
